@@ -6,4 +6,4 @@ YOU NEED AUTOHOTKEY INSTALLED
 
 Run the file
 
-Press ALT + F and watch the magic
+Press CTRL + SHIFT + F and watch the magic
