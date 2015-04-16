@@ -1,4 +1,4 @@
-<f::
+^+f::
 sleep, 2000
 click, 970,88
 sleep, 2000
